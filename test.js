@@ -1,0 +1,1 @@
+alert ("Hello, " + prompt ("Enter your name") + "! How are you?");
